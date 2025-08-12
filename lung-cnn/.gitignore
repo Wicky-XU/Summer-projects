@@ -1,0 +1,16 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+# Env
+.env
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
+# big stuff (keep out of repo)
+data/
+models/
